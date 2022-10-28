@@ -5,18 +5,20 @@ import ComponenteTituloConParrafo from "./CLASE2/ComponenteTituloConParrafo";
 import TituloH1ConEstilo from "./CLASE2/TituloH1ConEstilo";
 import Ejercicio3 from "./CLASE2/Ejercicio3";
 import Ejercicio4 from "./CLASE2/Ejercicio4";
+import ComponenteConImage from "./CLASE2/ComponenteConImage";
 
 function App() {
     return (
         <div className="App">
             <header className="App-header">
-                <ComponenteTituloH1></ComponenteTituloH1>
-                <ComponenteLista></ComponenteLista>
-                <ComponenteTituloConParrafo></ComponenteTituloConParrafo>
-                <TituloH1ConEstilo></TituloH1ConEstilo>
-                <Ejercicio3></Ejercicio3>
+                <ComponenteTituloH1 />
+                <ComponenteLista />
+                <ComponenteTituloConParrafo />
+                <TituloH1ConEstilo />
+                <Ejercicio3 />
+                <Ejercicio4 />
 
-                <Ejercicio4></Ejercicio4>
+                <ComponenteConImage />
             </header>
         </div>
     );
