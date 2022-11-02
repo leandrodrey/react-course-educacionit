@@ -1,4 +1,4 @@
-.estiloTitulo {
+.estiloSeccion {
     color: #f96700;
     display: block;
     text-decoration: none;
@@ -8,7 +8,7 @@
     font-weight: 700;
 }
 
-.estiloH1 {
+.estiloTitulo {
     color: #1f1f1f;
     font-size: 40px;
     line-height: 1.3;
