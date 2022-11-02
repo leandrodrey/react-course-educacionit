@@ -1,0 +1,24 @@
+.estiloSeccion {
+    color: #f96700;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: .02em;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.estiloH1 {
+    color: #1f1f1f;
+    font-size: 40px;
+    line-height: 1.3;
+    display: block;
+}
+
+.estiloSubtitulo {
+    color: #3b3b3b;
+    font-weight: 300;
+    margin-bottom: 10px;
+    font-size: 24px;
+    line-height: 1.5;
+}
