@@ -7,11 +7,11 @@ import ComponenteContenido from "./componenteContenido";
 function ComponenteNota() {
 
     return (
-        <div>
+        <React.Fragment>
             <ComponenteTitulo></ComponenteTitulo>
             <ComponenteImagen></ComponenteImagen>
             <ComponenteContenido></ComponenteContenido>
-        </div>
+        </React.Fragment>
     )
 }
 
