@@ -1,10 +1,10 @@
 import './App.css';
-import Formulario from "./CLASE4/FormularioInicioDeSesion/Formulario";
+import Tarjetero from "./CLASE5/Tarjetero";
 
 function App() {
     return (
         <div className="main">
-            <Formulario/>
+            <Tarjetero />
         </div>
     );
 }
