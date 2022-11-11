@@ -1,0 +1,14 @@
+.mainCaja {
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    border: 1px solid #0000;
+}
+
+.mainCaja--item--logo {
+
+}
+
+.mainCaja--item--titulo {
+
+}

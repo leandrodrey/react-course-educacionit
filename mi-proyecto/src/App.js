@@ -1,10 +1,10 @@
 import './App.css';
-import Tarjetero from "./CLASE5/Tarjetero";
+import ComponenteML from "./CLASE6/ComponenteML";
 
 function App() {
     return (
         <div className="main">
-            <Tarjetero />
+            <ComponenteML />
         </div>
     );
 }
