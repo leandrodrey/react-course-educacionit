@@ -10,17 +10,17 @@ function ComponenteML(props) {
         <div className="mainCaja">
             <div className="mainCaja--item">
                 <LogoStream logo = {logo} logoAlt = "Pepito Alt" />
-                <Titulo dias="3 Dias" titulo="Mengano" empresa="Paramount"  />
+                <Titulo dias="3 Dias" titulo="Mengano" empresa="Paramount" />
             </div>
 
             <div className="mainCaja--item">
                 <LogoStream logo = {logo} logoAlt = "Pepito Alt" />
-                <Titulo dias="77 Dias" titulo="Mengano" empresa="HBO"  />
+                <Titulo dias="77 Dias" titulo="Mengano" empresa="HBO" />
             </div>
 
             <div className="mainCaja--item">
                 <LogoStream logo = {logo} logoAlt = "Pepito Alt" />
-                <Titulo dias="8 Dias" titulo="Mengano" empresa="Paramount"  />
+                <Titulo dias="8 Dias" titulo="Mengano" empresa="Paramount" />
             </div>
         </div>
     )
