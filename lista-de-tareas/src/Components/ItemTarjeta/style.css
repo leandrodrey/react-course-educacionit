@@ -1,0 +1,17 @@
+.tarjeta__input {
+    border: 0.1rem solid grey;
+    font-size: 15px;
+    padding: 0.3rem 0.5rem;
+    margin: 0 0 2rem 0;
+}
+
+.tarjeta__textarea {
+    border: 0.1rem solid grey;
+    padding: 0.3rem 0.5rem;
+    margin: 0 0 2rem 0;
+}
+
+.tarjeta__input:focus,
+.tarjeta__textarea:focus {
+    outline: none;
+}
