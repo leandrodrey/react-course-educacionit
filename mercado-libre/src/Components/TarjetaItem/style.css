@@ -50,11 +50,11 @@
     color: gainsboro;
 }
 
+.tarjetaItem__promociones--oculto {
+    display: none;
+}
+
 .tarjetaItem:hover .tarjetaItem__promociones--oculto {
     display: block;
     transition: all 0.3s linear 0.3s;
-}
-
-.tarjetaItem__promociones--oculto {
-    display: none;
 }
