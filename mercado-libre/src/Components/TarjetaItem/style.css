@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+.tarjetaItem {
+    height: 330px;
+    width: 224px;
+    text-align: left;
+    overflow: hidden;
+    transition: height 0.2s linear 0.3s;
+}
+
+.tarjetaItem:hover {
+    height: 400px;
+    -webkit-box-shadow: 0 0 16px -5px #000000;
+    box-shadow: 0 0 16px -5px #000000;
+}
+
+.tarjetaItem__fila {
+    display: flex;
+    flex-direction: column;
+}
+
+.tarjetaItem__fila--texto {
+    padding: 10px;
+    background: #FFFFFF;
+}
+
+.tarjetaItem__imagen {
+    border-radius: 7px 7px 0 0;
+}
+
+.tarjetaItem__precio {
+    font-size: 24px;
+}
+
+.tarjetaItem__promociones {
+    font-size: 14px;
+}
+
+.tarjetaItem__promociones--negrita {
+    font-weight: bold;
+}
+
+.tarjetaItem__promociones--tachado {
+    text-decoration: gainsboro line-through solid 1px;
+}
+
+.tarjetaItem__promociones--gainsboro {
+    color: gainsboro;
+}
+
+.tarjetaItem:hover .tarjetaItem__promociones--oculto {
+    display: block;
+    transition: all 0.3s linear 0.3s;
+}
+
+.tarjetaItem__promociones--oculto {
+    display: none;
+}
