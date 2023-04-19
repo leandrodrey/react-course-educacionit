@@ -1,12 +1,10 @@
-# Curso de React de [Educacion IT](https://www.educacionit.com/)
-Repositorio con algunos ejercicios de práctica en la cursada.  
+<div align="center"> 
+  <img widht="100px" height="100px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
+  <h1>React Course from <a href="https://www.educacionit.com/">Educacion IT</a></h1>
+</div>
 
-## Información
-* Curso finalizado en Diciembre 2022.
-* [Información sobre el curso](https://www.educacionit.com/curso-de-reactjs).
-* [Plan de Estudio](https://www.educacionit.com/pdf/temarios/curso-de-reactjs).
-
-## Mis datos
-Mi nombre es Leandro Rey y actualmente soy Front end Web Developer
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leandrodrey/)
+## Information
+* Repository with some practice exercises in the course.
+* Course finished in December 2022.
+* [Course web page](https://www.educacionit.com/curso-de-reactjs).
+* [Study Plan](https://www.educacionit.com/pdf/temarios/curso-de-reactjs).
