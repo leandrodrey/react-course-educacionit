@@ -1,10 +1,12 @@
-# React Course
+# Curso de React de [Educacion IT](https://www.educacionit.com/)
+Repositorio con algunos ejercicios de práctica en la cursada.  
 
-[Curso de React](https://www.educacionit.com/curso-de-reactjs) en Educacion IT.
+## Información
+* Curso finalizado en Diciembre 2022.
+* [Información sobre el curso](https://www.educacionit.com/curso-de-reactjs).
+* [Plan de Estudio](https://www.educacionit.com/pdf/temarios/curso-de-reactjs).
 
+## Mis datos
+Mi nombre es Leandro Rey y actualmente soy Front end Web Developer
 
-## Install via npm
-> npm i -g create-react-app
-
-## Create a React App
-> npx create-react-app mi-proyecto
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leandrodrey/)
